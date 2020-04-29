@@ -1,0 +1,20 @@
+
+    .fonte {
+        font-size: 4em;
+        font-family: cursive;
+    }
+    .titulo {
+        color: crimson;
+    }
+    #nascimento {
+        color: darkblue;
+    }
+    input[type="text"]{
+        height: 50px;
+        transition-duration: 1s;
+        color: darkgoldenrod;
+    }
+    input[type="text"]:hover {
+        color:darkgreen;
+        font-size: 2em;
+    }
